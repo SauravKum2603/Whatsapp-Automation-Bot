@@ -244,7 +244,7 @@
       "parameters": {
         "operation": "send",
         "phoneNumberId": "1111685432031404",
-        "recipientPhoneNumber": "+917888562334",
+        "recipientPhoneNumber": "+91--------",
         "textBody": "={{ $json.output }}",
         "additionalFields": {}
       },
